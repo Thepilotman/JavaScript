@@ -37,3 +37,18 @@ const myFunction = function(){
 }
 
 console.log(typeof(myFunction))
+
+
+/* Primitive datatypes:
+1. Number => number
+2. String => string
+3. Boolean => boolean
+4. null => object
+5. undefined => undefined
+6. Symbol => symbol
+7. BigInt => bigint
+
+Non-primitive Datatypes:
+Arrays => object
+Function => function
+Object => object
